@@ -1,0 +1,3 @@
+// 获取房间公告
+https://api.live.bilibili.com/room_ex/v1/RoomNews/get?roomid=22877717
+{"code":0,"msg":"ok","message":"ok","data":{"roomid":"23547904","uid":"1048095329","content":"多在深夜出没，直播很随机TT欢迎来陪我聊天","ctime":"2021-12-23 20:27:20","status":"0","uname":"夜行性猫猫"}}
